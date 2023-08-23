@@ -1,5 +1,8 @@
 # File-leggimi-dinamico.
 
+## Video Walkthrough 
+[Uploading Untitled_ Aug 22 2023 10_25 PM.webm…]()
+
 ## Gitbash Snapshot
 ![Screenshot 2023-08-22 212451](https://github.com/JadenMerzetti/File-leggimi-dinamico./assets/131717483/2e2ecee0-7618-468d-99c8-923819031ca5)
 
